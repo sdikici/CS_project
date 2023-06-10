@@ -1,5 +1,7 @@
-# CS_project #
+# CS_project
+
 ## Automated Defect Detection using Image Recognition in Manufacturing
+
 This project aims to use image recognition techniques to detect defects in manufacturing products. The model learns to classify images into different categories, such as "defect" or "non-defect." The goal is to automate defect detection in manufacturing, with the positive outcome being increased productivity and cost-effectiveness, and the negative outcome being potential errors in classification.
 
 **Code Overview**
